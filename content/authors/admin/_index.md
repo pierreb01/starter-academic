@@ -15,6 +15,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Applied Probability, Machine Learning, Stochastic Optimization, Stochastic Calculus and Mathematical Finance.
+This site is still under construction and there still remains parts from the example site.
 
 # Interests to show in About widget
 interests:
