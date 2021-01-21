@@ -10,8 +10,8 @@ role: PhD Student in Applied Probabilty and Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Sorbonne Université
-  url: https://www.stanford.edu/
+- name: Sorbonne Université, LPSM
+  url: https://www.lpsm.paris/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Applied Probability, Machine Learning, Stochastic Optimization, Stochastic Calculus and Mathematical Finance.
